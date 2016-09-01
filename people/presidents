@@ -1,4 +1,4 @@
-[
+{
 	"presidents": [
 		{
 			"id": 1,
@@ -26,4 +26,4 @@
 			"lastName": "Monroe"
 		}
 	]
-]
+}
