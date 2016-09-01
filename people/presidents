@@ -1,0 +1,29 @@
+[
+	"presidents": [
+		{
+			"id": 1,
+			"firstName": "George",
+			"lastName": "Washington"
+		},
+		{
+			"id": 2,
+			"firstName": "John",
+			"lastName": "Adams"
+		},
+		{
+			"id": 3,
+			"firstName": "Thomas",
+			"lastName": "Jefferson"
+		},
+		{
+			"id": 4,
+			"firstName": "James",
+			"lastName": "Madison"
+		},
+		{
+			"id": 5,
+			"firstName": "James",
+			"lastName": "Monroe"
+		}
+	]
+]
