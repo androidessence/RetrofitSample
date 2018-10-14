@@ -62,7 +62,7 @@ public class PresidentAdapter extends BaseAdapter {
         private final TextView presidentName;
 
         public PresidentViewHolder(View view) {
-            presidentName = (TextView) view.findViewById(R.id.president_name);
+            presidentName = view.findViewById(R.id.president_name);
         }
 
         public void bindPresident(Person president) {
